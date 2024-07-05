@@ -1,0 +1,35 @@
+[
+    {
+        "Machine": "H",
+        "info": {
+            "Heat Dissipation Failure": 0.2,
+            "No Failure": 0.4,
+            "Overstrain Failure": 0.1,
+            "Power Failure": 0.2,
+            "Random Failures": 0.3,
+            "Tool Wear Failure": 0.1
+        }
+    },
+    {
+        "Machine": "L",
+        "info": {
+            "Heat Dissipation Failure": 0.2,
+            "No Failure": 0.1,
+            "Overstrain Failure": 0.1,
+            "Power Failure": 0.2,
+            "Random Failures": 0.3,
+            "Tool Wear Failure": 0.1
+        }
+    },
+    {
+        "Machine": "M",
+        "info": {
+            "Heat Dissipation Failure": 0.2,
+            "No Failure": 0.2,
+            "Overstrain Failure": 0.1,
+            "Power Failure": 0.2,
+            "Random Failures": 0.3,
+            "Tool Wear Failure": 0.1
+        }
+    }
+]
